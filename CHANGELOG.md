@@ -3,6 +3,10 @@ valve_steam CHANGELOG
 
 This file is used to list changes made in each version of the valve_steam cookbook.
 
+0.1.2
+-----
+- Fix typo in Rakefile.
+
 0.1.1
 -----
 - Moved valve_steam cookbook cookbook to individual repo.
